@@ -1,0 +1,110 @@
+{
+  "page": "propertyInsurancePage",
+  "sections": {
+    "productDescriptions": [
+      {
+        "arTitle": "تأمين الحريق",
+        "enTitle": "Fire Insurance",
+        "arDescription": "بيتك - مشروعك هو ملكك، تعبك وشقاك سنين عمرك، المهندس للتأمين ستحمي تعب سنين عمرك ضد الحريق الناتج عن الصواعق، والماس الكهربي، والاشتعال الذاتي، والانفجارات الغاز الطبيعي، لحمايتك وضمان أمنك.",
+        "enDescription": "Your home - your project is your property, the effort and hard work of your years. Al Mohandes Insurance protects your lifetime effort against fire caused by lightning, electrical short circuits, spontaneous combustion, and natural gas explosions, ensuring your safety and protecting your property.",
+        "image": "/assets/images/insurance/property-fire.svg"
+      },
+      {
+        "arTitle": "تأمين السطو",
+        "enTitle": "Burglary Insurance",
+        "arDescription": "صحيح مصر بلد الأمن والأمان، لكن ليس الجميع بنفس الأخلاق. لهذا السبب، تقدم المهندس للتأمين وثيقة تأمين السطو ضد حوادث السرقة بالإكراه، والتي تشمل الاعتداء على المكان أو السرقة باستخدام الأسلحة.",
+        "enDescription": "Although Egypt is a land of safety, not everyone has the same values. That's why Al Mohandes Insurance provides a burglary insurance policy that covers incidents of forced robbery, including property assaults and theft using weapons.",
+        "image": "/assets/images/insurance/property-theft.svg"
+      }
+    ],
+    "coverages": [
+      {
+        "arTitle": "وثيقة متعددة التغطيات",
+        "enTitle": "Multi-Cover Policy",
+        "arDescription": [
+          "أخطار الحريق والمصانع، والحريق الناتج عن الانفجار، والاشتعال الذاتي، والأضرار الناتجة عن استعمال مياه الإطفاء وتصرفات رجال الإطفاء أثناء مقاومتهم للحريق.",
+          "أخطار التشغيل الميكانيكي، وأخطار الغلايات، والآلات التجارية، والمحركات ذات الاحتراق الداخلي، وغيرها من الآلات، بالإضافة إلى أخطار الانفجارات الميكانيكية، وانفجار الغبار.",
+          "أخطار الشغب والاضطرابات الأهلية والاضطرابات العمالية.",
+          "الأخطار الطبيعية مثل الزلازل، والعواصف، والفيضانات، والسيول.",
+          "أخطار اصطدام المركبات سواء المملوكة للمؤمن له أو ملك الغير.",
+          "أخطار اصطدام الطائرات أو سقوطها أو الأجسام التي تسقط منها على الممتلكات المؤمن عليها.",
+          "أخطار فيضان خزانات المياه، وانفجار مواسير المياه، وتسرب المياه.",
+          "خطر السطو – السرقة بالإكراه.",
+          "أخطار خيانة الأمانة من قبل الموظفين.",
+          "أخطار كسر الزجاج.",
+          "أخطار مسؤولية المستأجر تجاه المالك.",
+          "أخطار المسؤولية المدنية العامة تجاه الغير.",
+          "مصاريف إزالة الأنقاض بعد وقوع حادث."
+        ],
+        "enDescription": [
+          "Fire and factory hazards, fire caused by explosions, spontaneous combustion, and damages from firefighting water and actions taken by firefighters during a fire incident.",
+          "Mechanical operation hazards, boiler risks, commercial machinery, internal combustion engines, and other machines, along with mechanical explosion and dust explosion risks.",
+          "Risks of riots, civil unrest, and labor disturbances.",
+          "Natural disasters such as earthquakes, storms, floods, and torrents.",
+          "Vehicle collision risks, whether the vehicles are owned by the insured or a third party.",
+          "Aircraft collision, falling objects, or aircraft crashing onto insured properties.",
+          "Water tank overflows, pipe explosions, and water leaks causing fire hazards.",
+          "Burglary and forced theft risks.",
+          "Breach of trust by employees.",
+          "Glass breakage risks.",
+          "Tenant liability risks towards the landlord.",
+          "General civil liability risks towards third parties.",
+          "Debris removal expenses after an accident."
+        ],
+        "image": "/assets/images/insurance/property-multiCov.svg"
+      },
+      {
+        "arTitle": "وثيقة الأخطار الصناعية",
+        "enTitle": "Industrial Hazards Policy",
+        "arDescription": [
+          "أخطار الحريق والصواعق، والحريق الناتج عن الاشتعال والانفجار والاشتعال الذاتي، والأضرار الناتجة عن استعمال مياه الإطفاء أثناء مقاومة الحريق.",
+          "أخطار الانفجار الكيميائي، انفجار الغلايات، والآلات التجارية، والمحركات ذات الاحتراق الداخلي، وغيرها من المعدات، بالإضافة إلى أخطار الانفجارات الميكانيكية، وانفجار الغاز، وانفجار الغبار.",
+          "الأخطار الطبيعية مثل الزلازل، والعواصف، والفيضانات، والسيول.",
+          "أخطار اصطدام المركبات سواء المملوكة للمؤمن له أو ملك الغير.",
+          "أخطار سقوط الطائرات أو سقوط الأجزاء منها أو الأشياء التي تسقط منها.",
+          "أخطار الشغب، الاضطرابات العمالية، وخيانة الأمانة.",
+          "أخطار الموجات الصوتية الناتجة عن الطائرات النفاثة.",
+          "أخطار انفجار مواسير المياه الخاصة بشبكات الإطفاء التلقائي وتسرب المياه."
+        ],
+        "enDescription": [
+          "Fire and lightning hazards, fires caused by ignition, explosion, spontaneous combustion, and damage from firefighting water.",
+          "Chemical explosion hazards, boiler and machinery explosions, internal combustion engines, and other industrial machinery risks.",
+          "Natural disaster risks such as earthquakes, storms, floods, and torrents.",
+          "Vehicle collision risks, whether the vehicles are owned by the insured or a third party.",
+          "Aircraft falls or falling objects from aircraft.",
+          "Riot and labor unrest risks, along with breach of trust.",
+          "Noise waves from jet aircraft.",
+          "Explosion risks from automatic firefighting systems and water leakage from pipes or sprinklers."
+        ],
+        "image": "/assets/images/insurance/property-risk.svg"
+      },
+      {
+        "arTitle": "وثيقة جميع الأخطار",
+        "enTitle": "All Risks Policy",
+        "arDescription": [
+          "أخطار الحريق والصواعق، والحريق الناتج عن الاشتعال والانفجار، والأضرار الناتجة عن استعمال مياه الإطفاء.",
+          "أخطار الانفجار الكيميائي، انفجار الغلايات، والمحركات ذات الاحتراق الداخلي، وغيرها من المعدات الصناعية.",
+          "الأخطار الطبيعية مثل الزلازل، والعواصف، والفيضانات، والسيول.",
+          "أخطار اصطدام المركبات سواء المملوكة للمؤمن له أو ملك الغير.",
+          "أخطار سقوط الطائرات أو سقوط أجزاء منها أو الأشياء التي تسقط منها.",
+          "أخطار السرقة والسطو بالإكراه.",
+          "أخطار فقد الإيراد الناتج عن توقف النشاط عقب حادث الحريق.",
+          "أخطار البضائع المخزنة في غرف التبريد والتجميد.",
+          "أخطار التكاليف الخاصة بإزالة الأنقاض الناتجة عن حادث الحريق."
+        ],
+        "enDescription": [
+          "Fire and lightning risks, fires caused by ignition, explosion, spontaneous combustion, and damage from firefighting water.",
+          "Chemical explosion hazards, boiler and machine explosions, internal combustion engines, and other industrial hazards.",
+          "Natural disasters such as earthquakes, storms, floods, and torrents.",
+          "Vehicle collision risks, whether owned by the insured or a third party.",
+          "Aircraft collision, falling parts, or objects dropped from aircraft.",
+          "Burglary and forced theft risks.",
+          "Revenue loss risks due to business interruption following a fire incident.",
+          "Storage risks for goods kept in refrigeration and freezing units.",
+          "Debris removal costs after a fire incident."
+        ],
+        "image": "/assets/images/insurance/property-allRisks.svg"
+      }
+    ]
+  }
+}

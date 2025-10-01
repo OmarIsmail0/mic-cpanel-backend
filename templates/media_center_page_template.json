@@ -1,0 +1,54 @@
+{
+  "page": "mediaCenterPage",
+  "sections": {
+    "pageContent": {
+      "title": {
+        "ar": "المركز الإعلامي",
+        "en": "Media Center"
+      },
+      "description": {
+        "ar": "اكتشف آخر الأخبار والصور والفيديوهات والجوائز الخاصة بشركة المهندس للتأمين",
+        "en": "Stay updated with the latest news from Al Mohandes Insurance"
+      }
+    },
+
+    "newsData": [
+      {
+        "arTitle": "العجز المنتسب للمهندس للتأمين: 1.1 مليار جنيه",
+        "enTitle": "Al Mohandes Insurance Deficit: 1.1 Billion EGP",
+        "arDescription": "حصة المساهمين ارتفعت بنسبة 32%",
+        "enDescription": "Shareholder stake increased by 32%",
+        "image": "/assets/images/media/news1.jpg"
+      },
+      {
+        "arTitle": "عمومية المهندس للتأمين تعتمد قوائمها المالية",
+        "enTitle": "Al Mohandes Insurance General Assembly Approves Financials",
+        "arDescription": "تحقيق 130.1 مليون جنيه صافي ربح",
+        "enDescription": "Achieving EGP 130.1 million net profit",
+        "image": "/assets/images/media/news2.jpg"
+      },
+      {
+        "arTitle": "المهندس للتأمين ترفع رأسمالها المدفوع إلى 350 مليون جنيه",
+        "enTitle": "Al Mohandes Insurance Raises Paid Capital to 350M EGP",
+        "arDescription": "إجراء توسعات كبيرة في الخدمات",
+        "enDescription": "Significant expansion in services",
+        "image": "/assets/images/media/news3.jpg"
+      }
+    ],
+    "mediaImages": [
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg",
+      "/assets/images/media/1.jpeg"
+    ],
+    "videos": [
+      "/assets/videos/company-intro.mp4",
+      "/assets/videos/company-intro.mp4",
+      "/assets/videos/company-intro.mp4"
+    ],
+    "awards": []
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "page": "engineeringInsurancePage",
+  "sections": {
+    "productDescription": {
+      "arTitle": "التأمين الهندسي",
+      "enTitle": "Engineering Insurance",
+      "arDescription": "نعلم و نعي انها اصعب وظيفة في مصر لكن الاحتياط واجب يا هندسة علشان كدة وثيقة التأمين الهندسي هتحل مشاكل المقاولين و أخطار التركيب الألات و المعدات و عطل الماكينات.\nوعلشان انت مهندس لازم تعمل حسابك.",
+      "enDescription": "We recognize that engineering is one of the toughest professions in Egypt. Precaution is essential, and that's why the Engineering Insurance policy helps contractors manage installation risks, equipment, and machinery failures.\nAs an engineer, you need to be prepared.",
+      "image": "/assets/images/insurance/engineering.svg"
+    },
+    "insurancePlans": [
+      {
+        "arTitle": "وثيقة جميع أخطار المقاولين",
+        "enTitle": "Contractors All Risk Policy",
+        "arDescription": [
+          "تغطي جميع الأخطار التي تتعرض لها أعمال عقد المقاولة خلال فترة التنفيذ وحتى اتمام أعمال الصيانة، والتي من ضمنها (على سبيل المثال لا الحصر) ما يلي:",
+          "أخطار الحريق والصواعق والانفجار",
+          "سقوط الطائرات أو سقوط أشياء منها",
+          "السرقة بالكراهة (السلب المسلح)",
+          "الإهمال وقلة الخبرة / أخطاء التصميم",
+          "الأخطار الطبيعية (الزلازل / العواصف / السيول / الفيضانات / البراكين)",
+          "تغطية الضرر الذي قد يحدث نتيجة العبور السيئ أو الحفر في الدعامات خلال تنفيذ شركتكم المؤمنة",
+          "أي حادث عرضي غير متوقع وغير مذكور صراحة بالاستثناءات الواردة بوثيقة جميع أخطار المقاولين."
+        ],
+        "enDescription": [
+          "Covers all risks that may occur during contract execution and maintenance, including (but not limited to):",
+          "Fire, lightning, and explosion risks",
+          "Aircraft crashes or falling objects",
+          "Armed robbery and theft",
+          "Negligence, lack of expertise, or design flaws",
+          "Natural disasters (earthquakes, storms, floods, volcanic eruptions)",
+          "Damages due to improper excavation or construction errors",
+          "Any unforeseen accidents not explicitly excluded in the Contractors All Risk Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-contractor_risks.svg"
+      },
+      {
+        "arTitle": "وثيقة جميع أخطار التركيب",
+        "enTitle": "Erection All Risk Policy",
+        "arDescription": [
+          "تغطي جميع الأخطار التي تتعرض لها أعمال عقد المقاولة خلال فترة التركيب والتجارب وحتى اتمام أعمال الصيانة، والتي من ضمنها (على سبيل المثال لا الحصر) ما يلي:",
+          "أخطار الحريق والصواعق والانفجار",
+          "سقوط الطائرات أو سقوط أشياء منها",
+          "السرقة بالكراهة (السلب المسلح)",
+          "الإهمال وقلة الخبرة / أخطاء التصميم",
+          "الأخطار الطبيعية (الزلازل / العواصف / السيول / الفيضانات / البراكين ...)",
+          "تغطية الضرر الذي قد يحدث نتيجة العبور السيئ أو الحفر في الدعامات خلال تنفيذ شركتكم المؤمنة",
+          "أي حادث عرضي غير متوقع وغير مذكور صراحة بالاستثناءات الواردة بوثيقة جميع أخطار التركيب."
+        ],
+        "enDescription": [
+          "Covers all risks related to contract execution during the installation and testing phases, including:",
+          "Fire, lightning, and explosion risks",
+          "Aircraft crashes or falling objects",
+          "Armed robbery and theft",
+          "Negligence, lack of expertise, or design flaws",
+          "Natural disasters (earthquakes, storms, floods, volcanic eruptions)",
+          "Damages due to improper excavation or construction errors",
+          "Any unforeseen accidents not explicitly excluded in the Erection All Risk Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-installation_risks.svg"
+      },
+      {
+        "arTitle": "وثيقة الات ومعدات المقاولين البرية",
+        "enTitle": "Contractors' Plant and Machinery Policy",
+        "arDescription": [
+          "تغطي جميع أنواع الالات والمعدات المستخدمة لاغراض البناء والتشييد ضد الاخطار الواردة أدناة:",
+          "أخطار الحريق / السطو",
+          "الخطأ في التشغيل / نقص الخبرة / سوء الاستخدام / الاهمال",
+          "الاخطار الطبيعية / الفيضانات / الزلازل",
+          "الاصطدام / الانقلاب",
+          "الحوادث التي قد تحدث أثناء الراحة / العمره",
+          "النقل والتنقل بجميع أنحاء الجمهورية",
+          "وأى حادث عرضى فجائي غير متوقع وغير مذكور صراحة بالإستثناءات الواردة بوثيقة الات ومعدات المقاولين البرية."
+        ],
+        "enDescription": [
+          "Covers all types of machinery and equipment used for construction and erection against the following risks:",
+          "Fire / Burglary",
+          "Operational errors / Lack of experience / Misuse / Negligence",
+          "Natural disasters / Floods / Earthquakes",
+          "Collision / Overturn",
+          "Accidents that may occur during rest / العمرة (Umrah/Maintenance)",
+          "Transportation throughout the Republic",
+          "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Plant and Machinery Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-construction_machines.svg"
+      },
+      {
+        "arTitle": "وثيقة عطل الماكينات",
+        "enTitle": "Machinery Breakdown Policy",
+        "arDescription": [
+          "تغطي الالات والماكينات أثناء عملها أو راحتها أو أثناء تنظفيها وفكها لغرض عمل عمره لها وأثناء نقلها من مكان الى أخر فى نفس المبنى أو اعادة تركيبها ، ومن ضمن هذه الاخطار ما يلي:",
+          "قصور الدائرة الكهربائية أو زيادة التيار الكهربائي",
+          "الظروف الجوية العادية",
+          "قوة الطرد المركزية",
+          "الانفجار الطبيعي الفيزيائي",
+          "نقص مياه الغلايات",
+          "وأى حادث عرضى فجائي غير متوقع وغير مذكور صراحة بالإستثناءات الواردة بوثيقة عطل الماكينات."
+        ],
+        "enDescription": [
+          "Covers machinery and equipment during operation, rest, cleaning, dismantling for maintenance, or transportation within the same building or reassembly. This includes the following risks:",
+          "Electrical circuit failure or power surge",
+          "Normal weather conditions",
+          "Centrifugal force",
+          "Physical explosion",
+          "Lack of water in boilers",
+          "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Machinery Breakdown Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-machine_failure.svg"
+      },
+      {
+        "arTitle": "وثيقة فساد المحتويات",
+        "enTitle": "Contents Spoilage Policy",
+        "arDescription": [
+          "تغطي أي تلف أو خسارة قد تحدث للبضائع المخزنة داخل الثلاجات بسبب الاختلال في درجة حرارة التخزين الناتجة مباشرة من وقوع حادث عرضي غير متوقع لماكينات التبريد أو التجميد ويشترط أن يكون الحادث مغطي بموجب شروط وثيقة عطل الماكينات ومن ضمن هذه الاخطار:",
+          "قصور الدائرة الكهربائية أو زيادة التيار الكهربائي",
+          "الاهمال وقلة مهارة العاملين",
+          "التلف العمدي",
+          "أخطاء التصميم أو أي عيوب في الصبه أو المواد"
+        ],
+        "enDescription": [
+          "Covers any damage or loss to goods stored in refrigerators due to unexpected fluctuations in storage temperature caused by an accidental event to the refrigeration or freezing machinery, provided the event is covered under the machinery breakdown policy. This includes the following risks:",
+          "Electrical circuit failure or power surge",
+          "Negligence and lack of skilled workers",
+          "Willful damage",
+          "Design flaws or defects in casting or materials"
+        ],
+        "image": "/assets/images/insurance/engineering-contents_damage.svg"
+      },
+      {
+        "arTitle": "وثيقة المعدات الالكترونية",
+        "enTitle": "Electronic Equipment Policy",
+        "arDescription": [
+          "تغطي جميع الخسائر أو الاضرار التي قد تحدث لاجهزة الحاسب الألى أو الكمبيوتر نتيجه أي حادث عرضي مفاجيء غير متوقع ، والتي من ضمنها ( على سبيل المثال لا الحصر ) ما يلي:",
+          ". الحريق / الانفجار / أي تلفيات ناتجة من أجهزة مكافحة الحريق",
+          ". تلفيات المياه و الرطوبة",
+          ". الدخان و التآكل بالغازات السامة",
+          ". التشغيل الخاطيء ( نقص الخبرة / الاهمال / .... الخ )",
+          ". قصور الدائرة الكهربائية",
+          ". السطو",
+          ". الفعل الضار المتعمد",
+          "وأى حادث عرضي فجائي غير متوقع وغير مذكور صراحة بالإستثناءات الواردة بوثيقة المعدات الالكترونية."
+        ],
+        "enDescription": [
+          "Covers all sudden and unforeseen losses or damages that may occur to computer and IT equipment, including (but not limited to):",
+          "Fire / Explosion / Any damage resulting from firefighting equipment",
+          "Water and moisture damage",
+          "Smoke and corrosion damage from toxic gases",
+          "Incorrect operation (lack of experience / negligence / etc.)",
+          "Electrical circuit failure",
+          "Burglary",
+          "Willful malicious acts",
+          "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Electronic Equipment Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-electronic_equipment.svg"
+      },
+      {
+        "arTitle": "وثيقة الات ومعدات البترول",
+        "enTitle": "Oil and Gas Machinery and Equipment Policy",
+        "arDescription": [
+          "تغطي هذه الوثيقة جميع الأخطار بمعنى أنها تغطي الخسائر و / أو الأضرار المادية المباشرة المفاجئة وغير المتوقعة التي تصيب الممتلكات المؤمن عليها من أي أسباب خارجية أثناء نقلها وإعادة تركيبها من موقع الى آخر واثناء عملية الحفر واثناء التخزين في حالة عدم التشغيل (عدم وجود عقد) لأنه قد يتم التأمين بفرض الاصلاح بسبب حادث ومن ضمن هذه الاخطار ( على سبيل المثال لا الحصر ) ما يلي:",
+          "أخطار الانفجار والتلف الناتج من قوة تدفق الزيت وقت الانفجار",
+          "الصواعق والعواصف والفيضانات",
+          "الحريق والسطو والسرقة",
+          "النقل والتنقل بجميع أنحاء الجمهورية",
+          "وأى حادث عرضي فجائي غير متوقع وغير مذكور صراحة بالإستثناءات الواردة بوثيقة الات ومعدات البترول"
+        ],
+        "enDescription": [
+          "This policy covers all sudden and unforeseen direct material losses and/or damages to the insured property from external causes during transportation, reassembly from one location to another, during drilling operations, and storage when not in use (in the absence of a contract), as repair can be insured due to an accident. This includes (but is not limited to) the following risks:",
+          "Explosion risks and damage resulting from oil flow pressure at the time of explosion",
+          "Lightning, storms, and floods",
+          "Fire, burglary, and theft",
+          "Transportation throughout the Republic",
+          "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Oil and Gas Machinery and Equipment Policy."
+        ],
+        "image": "/assets/images/insurance/engineering-oil_machinery.svg"
+      }
+    ]
+  }
+}

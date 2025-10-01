@@ -1,0 +1,62 @@
+{
+  "page": "socialResponsibilityPage",
+  "sections": {
+    "productDescription": {
+      "arTitle": "مسئوليتنا المجتمعية",
+      "enTitle": "Our Social Responsibility",
+      "arDescription": "المسئولية المجتمعية لشركة المهندس للتأمين هو السير علي اتجاه الدوله بوضع الإطار التنظيمي لمساهمات المسؤولية المجتمعية وآلية توثيقها وإدارتها، مع وضع الإطار العام للحوافز والامتيازات لممارسة المسؤولية المجتمعية، وتفعيل دورنا في توفير احتياجات الفئات المحتاجة الأكثر فقرا وفقا لتوجيهات الدولة المتمثلة في وزارة التضامن بقيادة معالي الدكتورة نيفين قباج.",
+      "enDescription": "Al Mohandes Insurance's social responsibility follows the state's direction in setting the regulatory framework for corporate social responsibility contributions, documenting and managing them, along with establishing incentives and privileges for corporate social responsibility practices. We play an active role in providing for the most underprivileged groups, following state directives led by the Ministry of Social Solidarity, headed by Dr. Nevine Kabbaj.",
+      "image": "/assets/images/social-responsibility.svg"
+    },
+    "goals": [
+      {
+        "arTitle": "رؤيتنا في المسؤولية المجتمعية",
+        "enTitle": "Our Vision for Social Responsibility",
+        "arDescription": "الوصول إلى الفئات الغير متطورة من قبل الرأي العام وتقديم المساعدات ذات الطابع الخيري وتوفير فرص عمل وتطوير منازل وتحسين الصحة.",
+        "enDescription": "Reaching underprivileged communities, offering charitable aid, creating job opportunities, improving housing, and enhancing healthcare."
+      },
+      {
+        "arTitle": "رسالتنا المجتمعية",
+        "enTitle": "Our Social Mission",
+        "arDescription": "دعم وتعزيز قضايا الأعمال لمشاركة الشركة الفاعلة في ممارسات المسؤولية المجتمعية ذات تأثير إيجابي بما يتماشى مع الأولويات التنموية المستدامة.",
+        "enDescription": "Supporting and reinforcing business causes through impactful social responsibility practices aligned with sustainable development priorities."
+      },
+      {
+        "arTitle": "أهدافنا المجتمعية",
+        "enTitle": "Our Social Goals",
+        "arDescription": "الوصول للفئات الأكثر احتياجًا، تقديم المساعدات، تطوير منازل، حماية البيئة، توعية بأخطار البلاستيك، وتحسين الخدمات الطبية.",
+        "enDescription": "Reaching underprivileged groups, offering aid, developing housing, protecting the environment, raising awareness of plastic pollution, and improving medical services."
+      }
+    ],
+    "impactAreas": [
+      {
+        "arTitle": "في مجال الصحة",
+        "enTitle": "In Healthcare",
+        "arDescription": "مثال تجهيز في مدينة مركزية مستشفيات أسيوط و عمل قوافل طبية للكشف المجاني للمرضى و توفير قوافل طبية برعاية المستشفيات الكبرى.",
+        "enDescription": "Equipping central hospitals in cities like Assiut, conducting free medical convoys, and providing healthcare initiatives in collaboration with major hospitals.",
+        "image": "/images/health.png"
+      },
+      {
+        "arTitle": "في مجال الاقتصاد",
+        "enTitle": "In Economy",
+        "arDescription": "توفير مشاريع صيد و مراكز تجارية صغيرة لتشغيل و دعم الشباب في المجتمع، و دعم ريادة الأعمال بالتنسيق مع وزارة التجارة والصناعة.",
+        "enDescription": "Providing fishing projects and small commercial centers to support youth employment, fostering entrepreneurship with the Ministry of Trade and Industry.",
+        "image": "/images/economy.png"
+      },
+      {
+        "arTitle": "في المجال الاجتماعي",
+        "enTitle": "In Social Development",
+        "arDescription": "تطوير وتجديد مدارس رياض الأطفال، وتنمية القيم، وتحسين المساكن وفقاً لمبادرة الرئيس لتطوير المجتمع الاجتماعي.",
+        "enDescription": "Renovating kindergartens, fostering social values, and improving housing conditions under the President's National Community Development Initiative.",
+        "image": "/images/social.png"
+      },
+      {
+        "arTitle": "في مجال التنمية المستدامة و البيئة",
+        "enTitle": "In Sustainability & Environment",
+        "arDescription": "دعم التنمية المستدامة من خلال الطاقة الشمسية، تقليل الانبعاثات الضارة، والتحول الرقمي للحفاظ على البيئة.",
+        "enDescription": "Supporting sustainability through solar energy, reducing harmful emissions, and embracing digital transformation to protect the environment.",
+        "image": "/images/environment.png"
+      }
+    ]
+  }
+}

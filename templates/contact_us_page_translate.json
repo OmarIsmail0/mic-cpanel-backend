@@ -1,0 +1,143 @@
+{
+  "page": "contactUsPage",
+  "sections": {
+    "pageContent": {
+      "image": "/assets/images/contact-us.svg",
+      "arTitle": "تواصل مع الإدارة العليا",
+      "enTitle": "Contact Senior Management",
+      "arDescription": "خدمة تقدمها الشركة للتواصل مع الإدارة العليا مباشرة من خلال ملئ النموذج المرفق لإرسال الشكاوى والمقترحات، على ان يتم مرجعاتها والتواصل الفوري مع مقدم الشكوى أو الإقتراح",
+      "enDescription": "A service provided by the company to communicate directly with senior management by filling out the attached form to send complaints and suggestions, which will be reviewed and immediate contact will be made with the complainant or suggester."
+    },
+    "contactInformation": {
+      "title": {
+        "ar": "معلومات الاتصال",
+        "en": "Contact information"
+      },
+      "details": {
+        "address": {
+          "ar": "123 شارع التأمين، القاهرة، مصر",
+          "en": "123 Insurance Street, Cairo, Egypt"
+        },
+        "phone": "+20 123 456 7890",
+        "email": "info@company.com",
+        "workingHours": {
+          "ar": "الأحد - الخميس (8 صباحًا - 4 مساءً)",
+          "en": "Sunday - Thursday (8 AM - 4 PM)"
+        }
+      }
+    },
+    "faq": [
+      {
+        "arQuestion": "ما هو التأمين على الممتلكات وماذا يغطي؟",
+        "enQuestion": "What is property insurance and what does it cover?",
+        "enAnswer": "Property insurance is a contract between you and the insurance company to protect you from financial losses resulting from damage or loss of your property (such as home, office, warehouse, equipment). Coverage typically includes:",
+        "arAnswer": "التأمين على الممتلكات هو عقد بينك وبين شركة التأمين لحمايتك من الخسائر المالية الناتجة عن تلف أو فقدان ممتلكاتك (زي المنزل، المكتب، المخزن، المعدات). التغطية بتشمل غالبًا:",
+        "arPointsList": [
+          "الحريق والانفجارات",
+          "السطو والسرقة",
+          "الكوارث الطبيعية (حسب البوليصة)",
+          "الأضرار الناتجة عن المياه أو انفجار أنابيب",
+          "الشغب أو الاضطرابات المدنية (في بعض الوثائق)"
+        ],
+        "enPointsList": [
+          "Fire and explosions",
+          "Burglary and theft",
+          "Natural disasters (depending on the policy)",
+          "Water damage or pipe bursts",
+          "Riots or civil disturbances (in some policies)"
+        ]
+      },
+      {
+        "arQuestion": "هل التأمين يغطي كل أنواع المخاطر؟",
+        "enQuestion": "Does insurance cover all types of risks?",
+        "enAnswer": "No, every insurance policy has exclusions. For example:",
+        "arAnswer": "لا، كل بوليصة تأمين لها استثناءات. مثلاً:",
+        "arPointsList": [
+          "الحروب والعمليات الإرهابية غالبًا لا تكون مشمولة إلا ببوليصة خاصة",
+          "الإهمال المتعمد أو التلف بسبب سوء الاستخدام",
+          "التآكل الطبيعي أو الأعطال الميكانيكية"
+        ],
+        "enPointsList": [
+          "Wars and terrorist operations are usually not covered except with a special policy",
+          "Intentional negligence or damage due to misuse",
+          "Natural wear and tear or mechanical failures"
+        ],
+        "additionalText": {
+          "en": "That's why you need to read the policy carefully.",
+          "ar": "عشان كده لازم تقرأ البوليصة بعناية."
+        }
+      },
+      {
+        "arQuestion": "كيف يتم تحديد قيمة التعويض عند حدوث خسارة؟",
+        "enQuestion": "How is the compensation value determined when a loss occurs?",
+        "enAnswer": "There are two common methods:",
+        "arAnswer": "فيه طريقتين شائعتين:",
+        "arPointsList": [
+          "قيمة الاستبدال (Replacement Cost): تعويضك بتكلفة شراء نفس الممتلكات أو ما يعادلها جديدة",
+          "القيمة السوقية (Actual Cash Value): تعويضك بعد خصم نسبة الإهلاك (التقادم) من سعر الممتلك"
+        ],
+        "enPointsList": [
+          "Replacement Cost: Compensates you for the cost of purchasing the same or equivalent property new",
+          "Actual Cash Value: Compensates you after deducting depreciation from the property's value"
+        ]
+      },
+      {
+        "arQuestion": "هل لازم أأمن على الممتلكات كلها ولا ممكن أجزاء بس؟",
+        "enQuestion": "Do I need to insure all properties or can I insure parts only?",
+        "enAnswer": "You can insure all properties or choose to insure specific elements such as electronic devices, furniture, or inventory only. However, partial property insurance may reduce the compensation value in case of a major loss.",
+        "arAnswer": "تقدر تأمن على الممتلكات بالكامل أو تختار تأمن على عناصر معينة زي الأجهزة الإلكترونية أو الأثاث أو المخزون فقط. بس تأمين الممتلكات بشكل جزئي ممكن يقلل من قيمة التعويض لو حصلت خسارة كبيرة.",
+        "arPointsList": [],
+        "enPointsList": []
+      },
+      {
+        "arQuestion": "ما هي المستندات المطلوبة لشراء بوليصة تأمين على الممتلكات؟",
+        "enQuestion": "What documents are required to purchase a property insurance policy?",
+        "enAnswer": "The following documents are required:",
+        "arAnswer": "المستندات المطلوبة هي:",
+        "arPointsList": [
+          "صورة البطاقة أو السجل التجاري (لو شركة)",
+          "عقد الملكية أو الإيجار",
+          "كشف بالممتلكات (Inventory List)",
+          "تقدير تقريبي لقيمة الممتلكات",
+          "صور للمكان أحيانًا (للأرشفة)",
+          "استيفاء نموذج طلب التأمين من شركة"
+        ],
+        "enPointsList": [
+          "ID card or commercial register copy (for companies)",
+          "Ownership or rental contract",
+          "Inventory list",
+          "Approximate value estimate of properties",
+          "Photos of the location (for archiving)",
+          "Completion of the insurance application form from the company"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "arReview": "نحن سعداء للغاية للخدمة المقدمة من شركة المهندس للتأمين ومساعدتنا في الحصول على التعويض في وقت سريع",
+        "enReview": "We are very happy with the service provided by Mohandes Insurance and their assistance in obtaining compensation quickly.",
+        "rating": 5,
+        "arLocation": "القاهرة - مصر",
+        "enLocation": "Cairo, Egypt"
+      },
+      {
+        "arReview": "خدمة ممتازة وسريعة جدًا، فريق العمل متعاون ويوفر الدعم الكامل",
+        "enReview": "Excellent and very fast service, the team is cooperative and provides full support.",
+        "rating": 5,
+        "arLocation": "الإسكندرية - مصر",
+        "enLocation": "Alexandria, Egypt"
+      },
+      {
+        "arReview": "أفضل تجربة تأمين، إجراءات سهلة وسرعة في التعامل",
+        "enReview": "The best insurance experience, easy procedures, and quick processing.",
+        "rating": 5,
+        "arLocation": "الجيزة - مصر",
+        "enLocation": "Giza, Egypt"
+      }
+    ],
+    "contactForm": {
+      "arDescription": "خدمة تقدمها الشركة للتواصل مع الإدارة العليا مباشرة من خلال ملئ النموذج المرفق لإرسال الشكاوى والمقترحات، على ان يتم مرجعاتها والتواصل الفوري مع مقدم الشكوى أو الإقتراح",
+      "enDescription": "A service provided by the company to communicate directly with senior management by filling out the attached form to send complaints and suggestions, which will be reviewed and immediate contact will be made with the complainant or suggester."
+    }
+  }
+}

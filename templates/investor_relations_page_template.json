@@ -1,0 +1,95 @@
+{
+  "page": "investorRelationsPage",
+  "sections": {
+    "enTitle": "Keeping Up with Developments",
+    "arTitle": "مواكبة المستجدات",
+    "enDescription": "The company complies with all financial disclosure regulations issued by the market.",
+    "arDescription": "تلتزم الشركة بكافة أنظمة وقوانين الإفصاح المالي الصادرة عن كلّ من سوق",
+    "tables": [
+      {
+        "enTitle": "Latest Financial Results & Reports",
+        "arTitle": "آخر النتائج والتقارير المالية",
+        "enTitleTable": "Financial Disclosure",
+        "arTitleTable": "التقارير المالية 2023",
+        "rows": [
+          {
+            "enTitle": "Q4 2023",
+            "arTitle": "الربع الرابع 2023",
+            "ceoReport": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "financialReport": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "bodStatement": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "managementDiscussion": "/assets/images/investor-relations/financial-disclosure.pdf"
+          },
+          {
+            "enTitle": "Q3 2023",
+            "arTitle": "الربع الثالث 2023",
+            "ceoReport": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "financialReport": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "bodStatement": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "managementDiscussion": "/assets/images/investor-relations/financial-disclosure.pdf"
+          }
+        ]
+      },
+      {
+        "enTitle": "General Assembly Meetings of Al Mohandes Insurance",
+        "arTitle": "اجتماعات الجمعية العمومية لشركة المهندس للتأمين",
+        "enTitleTable": "General Assembly Meetings 2023",
+        "arTitleTable": "اجتماعات الجمعية العامة 2023",
+        "rows": [
+          {
+            "enTitle": "December 15, 2023",
+            "arTitle": "15 ديسمبر 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          },
+          {
+            "enTitle": "June 20, 2023",
+            "arTitle": "20 يونيو 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          }
+        ]
+      },
+      {
+        "enTitle": "Governance Committee",
+        "arTitle": "لجنة الحوكمة",
+        "enTitleTable": "Governance Committee Meetings 2023",
+        "arTitleTable": "اجتماعات لجنة الحوكمة 2023",
+        "rows": [
+          {
+            "enTitle": "December 15, 2023",
+            "arTitle": "15 ديسمبر 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          },
+          {
+            "enTitle": "June 20, 2023",
+            "arTitle": "20 يونيو 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          }
+        ]
+      },
+      {
+        "enTitle": "Risk Committee",
+        "arTitle": "لجنة المخاطر",
+        "enTitleTable": "Risk Committee Meetings 2023",
+        "arTitleTable": "اجتماعات لجنة المخاطر 2023",
+        "rows": [
+          {
+            "enTitle": "December 15, 2023",
+            "arTitle": "15 ديسمبر 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          },
+          {
+            "enTitle": "June 20, 2023",
+            "arTitle": "20 يونيو 2023",
+            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -38,7 +38,6 @@ const adminSchema = new mongoose.Schema(
 );
 
 // Index for better performance
-adminSchema.index({ username: 1 });
 adminSchema.index({ isActive: 1 });
 
 // Virtual for account lock status

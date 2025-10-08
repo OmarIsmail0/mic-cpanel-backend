@@ -6,7 +6,7 @@
       "enTitle": "Transport Insurance",
       "arDescription": "علشان شحنتك توصل بسلام لازم تكون عامل حسابك على كل حاجة، علشان كدة وثيقة نقل البضائع من المهندس للتأمين هتعوضك عن أي أضرار تحصل لشحنتك البرية أو البحرية أو الجوية.",
       "enDescription": "To ensure your shipment arrives safely, you need to plan for every possibility. That's why Al Mohandes Insurance provides cargo transport insurance that compensates for any damages to your land, sea, or air shipment.",
-      "image": "/assets/images/insurance/cargo.svg"
+      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817674/Mic/assets/images/insurance/cargo_buptt6.svg"
     },
     "coverages": [
       {
@@ -14,21 +14,21 @@
         "enTitle": "Marine/Air Cargo Insurance",
         "arDescription": "التأمين على المنتجات والوسائل المنقولة من وإلى جمهورية مصر العربية بحراً أو جواً ضد المخاطر التي قد تتعرض لها أثناء رحلة الاستيراد والتصدير وفقاً لشروط التغطية (أ/ب/ج).",
         "enDescription": "Insurance coverage for goods transported to and from Egypt by sea or air, protecting against risks during import/export journeys according to coverage terms (A/B/C).",
-        "image": "/assets/images/insurance/marine-cargo.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817678/Mic/assets/images/insurance/marine-cargo_z3wnxg.svg"
       },
       {
         "arTitle": "وثيقة تأمين نقل بري (بضائع)",
         "enTitle": "Land Cargo Insurance",
         "arDescription": "التأمين على المنتجات والوسائل المنقولة براً بالسيارات داخل حدود جمهورية مصر العربية أو من وإلى جمهورية مصر العربية ضد المخاطر التي قد تتعرض لها أثناء الرحلة وفقاً لشروط التغطية (الكلي فقط / أخطار شاملة).",
         "enDescription": "Insurance coverage for goods transported by land within Egypt or to/from the country, protecting against risks according to coverage options (total loss only / comprehensive coverage).",
-        "image": "/assets/images/insurance/land-cargo.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817678/Mic/assets/images/insurance/land-cargo_rrcebz.svg"
       },
       {
         "arTitle": "وثيقة تأمين وحدات (أجسام سفن)",
         "enTitle": "Hull Insurance (Ship Units)",
         "arDescription": "التأمين على الوحدات البحرية من مراكب وقاطرات ويخوت وقوارب ضد المخاطر المحتملة خلال فترة التغطية سواء أثناء التشغيل، الإرساء، الوقوف، أو التنقل في المياه الإقليمية والدولية وفقاً لشروط التغطية (مدة/رحلة/أخطار بناء/إصلاح).",
         "enDescription": "Coverage for marine vessels including boats, tugboats, yachts, and ships against potential risks during operational periods, docking, mooring, or navigation in regional and international waters as per coverage terms (period/trip/construction risks/repair).",
-        "image": "/assets/images/insurance/ship-insurance.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817680/Mic/assets/images/insurance/ship-insurance_wtwxoy.svg"
       }
     ]
   }

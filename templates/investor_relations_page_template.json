@@ -15,18 +15,18 @@
           {
             "enTitle": "Q4 2023",
             "arTitle": "الربع الرابع 2023",
-            "ceoReport": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "financialReport": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "bodStatement": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "managementDiscussion": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "ceoReport": "uploads/investor-relations/financial-disclosure.pdf",
+            "financialReport": "uploads/investor-relations/financial-disclosure.pdf",
+            "bodStatement": "uploads/investor-relations/financial-disclosure.pdf",
+            "managementDiscussion": "uploads/investor-relations/financial-disclosure.pdf"
           },
           {
             "enTitle": "Q3 2023",
             "arTitle": "الربع الثالث 2023",
-            "ceoReport": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "financialReport": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "ceoReport": "uploads/investor-relations/financial-disclosure.pdf",
+            "financialReport": "uploads/investor-relations/financial-disclosure.pdf",
             "bodStatement": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "managementDiscussion": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "managementDiscussion": "uploads/investor-relations/financial-disclosure.pdf"
           }
         ]
       },
@@ -39,14 +39,14 @@
           {
             "enTitle": "December 15, 2023",
             "arTitle": "15 ديسمبر 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "uploads/investor-relations/financial-disclosure.pdf"
           },
           {
             "enTitle": "June 20, 2023",
             "arTitle": "20 يونيو 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "uploads/investor-relations/financial-disclosure.pdf"
           }
         ]
       },
@@ -59,13 +59,13 @@
           {
             "enTitle": "December 15, 2023",
             "arTitle": "15 ديسمبر 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "uploads/investor-relations/financial-disclosure.pdf"
           },
           {
             "enTitle": "June 20, 2023",
             "arTitle": "20 يونيو 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
             "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
           }
         ]
@@ -79,14 +79,14 @@
           {
             "enTitle": "December 15, 2023",
             "arTitle": "15 ديسمبر 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "uploads/investor-relations/financial-disclosure.pdf"
           },
           {
             "enTitle": "June 20, 2023",
             "arTitle": "20 يونيو 2023",
-            "Presentation": "/assets/images/investor-relations/financial-disclosure.pdf",
-            "Meeting Minutes": "/assets/images/investor-relations/financial-disclosure.pdf"
+            "Presentation": "uploads/investor-relations/financial-disclosure.pdf",
+            "Meeting Minutes": "uploads/investor-relations/financial-disclosure.pdf"
           }
         ]
       }

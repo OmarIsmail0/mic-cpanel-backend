@@ -7,14 +7,14 @@
         "enTitle": "Fire Insurance",
         "arDescription": "بيتك - مشروعك هو ملكك، تعبك وشقاك سنين عمرك، المهندس للتأمين ستحمي تعب سنين عمرك ضد الحريق الناتج عن الصواعق، والماس الكهربي، والاشتعال الذاتي، والانفجارات الغاز الطبيعي، لحمايتك وضمان أمنك.",
         "enDescription": "Your home - your project is your property, the effort and hard work of your years. Al Mohandes Insurance protects your lifetime effort against fire caused by lightning, electrical short circuits, spontaneous combustion, and natural gas explosions, ensuring your safety and protecting your property.",
-        "image": "/assets/images/insurance/property-fire.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817680/Mic/assets/images/insurance/property-fire_y1axq1.svg"
       },
       {
         "arTitle": "تأمين السطو",
         "enTitle": "Burglary Insurance",
         "arDescription": "صحيح مصر بلد الأمن والأمان، لكن ليس الجميع بنفس الأخلاق. لهذا السبب، تقدم المهندس للتأمين وثيقة تأمين السطو ضد حوادث السرقة بالإكراه، والتي تشمل الاعتداء على المكان أو السرقة باستخدام الأسلحة.",
         "enDescription": "Although Egypt is a land of safety, not everyone has the same values. That's why Al Mohandes Insurance provides a burglary insurance policy that covers incidents of forced robbery, including property assaults and theft using weapons.",
-        "image": "/assets/images/insurance/property-theft.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817681/Mic/assets/images/insurance/property-theft_unlojp.svg"
       }
     ],
     "coverages": [
@@ -51,7 +51,7 @@
           "General civil liability risks towards third parties.",
           "Debris removal expenses after an accident."
         ],
-        "image": "/assets/images/insurance/property-multiCov.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817681/Mic/assets/images/insurance/property-theft_unlojp.svg"
       },
       {
         "arTitle": "وثيقة الأخطار الصناعية",
@@ -76,7 +76,7 @@
           "Noise waves from jet aircraft.",
           "Explosion risks from automatic firefighting systems and water leakage from pipes or sprinklers."
         ],
-        "image": "/assets/images/insurance/property-risk.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817680/Mic/assets/images/insurance/property-risk_qrjnyo.svg"
       },
       {
         "arTitle": "وثيقة جميع الأخطار",
@@ -103,7 +103,7 @@
           "Storage risks for goods kept in refrigeration and freezing units.",
           "Debris removal costs after a fire incident."
         ],
-        "image": "/assets/images/insurance/property-allRisks.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817680/Mic/assets/images/insurance/property-risk_qrjnyo.svg"
       }
     ]
   }

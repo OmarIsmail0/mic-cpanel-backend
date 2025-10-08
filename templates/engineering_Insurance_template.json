@@ -6,7 +6,7 @@
       "enTitle": "Engineering Insurance",
       "arDescription": "نعلم و نعي انها اصعب وظيفة في مصر لكن الاحتياط واجب يا هندسة علشان كدة وثيقة التأمين الهندسي هتحل مشاكل المقاولين و أخطار التركيب الألات و المعدات و عطل الماكينات.\nوعلشان انت مهندس لازم تعمل حسابك.",
       "enDescription": "We recognize that engineering is one of the toughest professions in Egypt. Precaution is essential, and that's why the Engineering Insurance policy helps contractors manage installation risks, equipment, and machinery failures.\nAs an engineer, you need to be prepared.",
-      "image": "/assets/images/insurance/engineering.svg"
+      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817678/Mic/assets/images/insurance/engineering_kms8dh.svg"
     },
     "insurancePlans": [
       {
@@ -32,7 +32,7 @@
           "Damages due to improper excavation or construction errors",
           "Any unforeseen accidents not explicitly excluded in the Contractors All Risk Policy."
         ],
-        "image": "/assets/images/insurance/engineering-contractor_risks.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817676/Mic/assets/images/insurance/engineering-contractor_risks_wiwzkn.svg"
       },
       {
         "arTitle": "وثيقة جميع أخطار التركيب",
@@ -57,7 +57,7 @@
           "Damages due to improper excavation or construction errors",
           "Any unforeseen accidents not explicitly excluded in the Erection All Risk Policy."
         ],
-        "image": "/assets/images/insurance/engineering-installation_risks.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817676/Mic/assets/images/insurance/engineering-installation_risks_fylrxa.svg"
       },
       {
         "arTitle": "وثيقة الات ومعدات المقاولين البرية",
@@ -82,7 +82,7 @@
           "Transportation throughout the Republic",
           "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Plant and Machinery Policy."
         ],
-        "image": "/assets/images/insurance/engineering-construction_machines.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817675/Mic/assets/images/insurance/engineering-construction_machines_ckgstj.svg"
       },
       {
         "arTitle": "وثيقة عطل الماكينات",
@@ -105,7 +105,7 @@
           "Lack of water in boilers",
           "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Machinery Breakdown Policy."
         ],
-        "image": "/assets/images/insurance/engineering-machine_failure.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817677/Mic/assets/images/insurance/engineering-machine_failure_vnxq5w.svg"
       },
       {
         "arTitle": "وثيقة فساد المحتويات",
@@ -124,7 +124,7 @@
           "Willful damage",
           "Design flaws or defects in casting or materials"
         ],
-        "image": "/assets/images/insurance/engineering-contents_damage.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817675/Mic/assets/images/insurance/engineering-contents_damage_cleld8.svg"
       },
       {
         "arTitle": "وثيقة المعدات الالكترونية",
@@ -151,7 +151,7 @@
           "Willful malicious acts",
           "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Electronic Equipment Policy."
         ],
-        "image": "/assets/images/insurance/engineering-electronic_equipment.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817675/Mic/assets/images/insurance/engineering-electronic_equipment_rnkrkm.svg"
       },
       {
         "arTitle": "وثيقة الات ومعدات البترول",
@@ -172,7 +172,7 @@
           "Transportation throughout the Republic",
           "Any sudden unforeseen accident not explicitly mentioned in the exclusions of the Oil and Gas Machinery and Equipment Policy."
         ],
-        "image": "/assets/images/insurance/engineering-oil_machinery.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817677/Mic/assets/images/insurance/engineering-oil_machinery_srynvz.svg"
       }
     ]
   }

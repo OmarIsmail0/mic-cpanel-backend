@@ -1,0 +1,210 @@
+{
+  "page": "branchPage",
+  "sections": {
+    "mainBranch": {
+      "arTitle": "الفروع الرئيسية",
+      "enTitle": "Main Branches",
+      "arDescription": "الفروع الرئيسية لشركة المهندس للتأمين",
+      "enDescription": "Main branches of Al Mohandes Insurance",
+      "arAddress": "شارع البطل أحمد عبد العزيز 36",
+      "enAddress": "36 El Batal Ahmed Abdel Aziz St.",
+      "image": "uploads/branch/main-branch.jpg",
+      "fax": "37603371",
+      "phone": "33350853 – 33371074 – 33371774 – 33603371",
+      "email": "info@mohins.com"
+    },
+    "otherBranches": [
+      {
+        "arTitle": "المهندسين",
+        "enTitle": "Mohandessin",
+        "arAddress": "شارع البطل أحمد عبد العزيز 36",
+        "enAddress": "36 El Batal Ahmed Abdel Aziz St.",
+        "phone": "33350853 – 33371074 – 33371774 – 33603371",
+        "fax": "37603371",
+        "manager": "أحمد مصطفى",
+        "email": "ahmed.mostafa@mohins.com"
+      },
+      {
+        "arTitle": "عماد الدين",
+        "enTitle": "Imad El Din",
+        "arAddress": "شارع عماد الدين - عمارة يونيكو 20",
+        "enAddress": "20 Imad El Din St. - Unico Building",
+        "phone": "25762041 – 25762040 – 25747481 – 25757354",
+        "fax": "25761423",
+        "manager": "طارق عثمان",
+        "email": "tarek.osman@mohins.com"
+      },
+      {
+        "arTitle": "غمرة",
+        "enTitle": "Ghamra",
+        "arAddress": "شارع رمسيس 217",
+        "enAddress": "217 Ramsis St.",
+        "phone": "25932846 – 25932838 – 25894667",
+        "fax": "25914460",
+        "manager": "أسامة سعيد",
+        "email": "osama.saeed@mohins.com"
+      },
+      {
+        "arTitle": "مصر الجديدة",
+        "enTitle": "Heliopolis",
+        "arAddress": "شارع الصباغ - متفرع من شارع الاهرام - مصر الجديدة 10",
+        "enAddress": "10 El Sabbagh St., off Al Ahram St., Heliopolis",
+        "phone": "22562217",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "التجمع الخامس",
+        "enTitle": "New Cairo - Fifth Settlement",
+        "arAddress": "مول سلفر ستار بجوار المحكمة 1",
+        "enAddress": "Silver Star Mall, near the court, Building 1",
+        "phone": "22090069",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "شبرا",
+        "enTitle": "Shubra",
+        "arAddress": "شارع شبرا - القاهرة 280",
+        "enAddress": "280 Shubra St., Cairo",
+        "phone": "22090069",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "السيدة زينب",
+        "enTitle": "Sayeda Zeinab",
+        "arAddress": "شارع خيرت 4",
+        "enAddress": "4 Khairat St.",
+        "phone": "27962737 – 27961626",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "المعادى",
+        "enTitle": "Maadi",
+        "arAddress": "اللور الاول برج ريحانة بيزنس - مدخل زهراء المعادى B",
+        "enAddress": "1st Floor, Rehana Business Tower - Zahraa El Maadi Entrance B",
+        "phone": "25171903 – 25197933",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "مدينة نصر",
+        "enTitle": "Nasr City",
+        "arAddress": "امتداد عباس العقاد 1 حى السفارات",
+        "enAddress": "1 Abbas El Akkad Extension, Diplomatic District",
+        "phone": "23517199 – 26777315",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "الإسكندرية",
+        "enTitle": "Alexandria",
+        "arAddress": "طريق الحرية 116",
+        "enAddress": "116 Al Horreya Road",
+        "phone": "4874356 – 4862463 – 4875018 – 483578",
+        "fax": "4866640",
+        "manager": "تامر ماهر",
+        "email": "tamer.maher@mohinspro.com"
+      },
+      {
+        "arTitle": "العصافرة",
+        "enTitle": "Asafra",
+        "arAddress": "",
+        "enAddress": "",
+        "phone": "035529399 – 035494943",
+        "manager": "أحمد بكر",
+        "email": "ahmed.bakr@mohins.com"
+      },
+      {
+        "arTitle": "الغردقة",
+        "enTitle": "Hurghada",
+        "arAddress": "الكور تقسيم البنوك 147",
+        "enAddress": "147 Al-Kor, Banks Division",
+        "phone": "06503406397 – 34066130650"
+      },
+      {
+        "arTitle": "طنطا",
+        "enTitle": "Tanta",
+        "arAddress": "عمارة برج الأقصر – ميدان الجمهورية",
+        "enAddress": "Al Luxor Tower – Al Gomhoureya Square",
+        "phone": "3305420 – 3326934",
+        "fax": "3326934",
+        "manager": "منى قتاوي",
+        "email": "mona.kenawy@mohins.com"
+      },
+      {
+        "arTitle": "المنصورة",
+        "enTitle": "Mansoura",
+        "arAddress": "شارع عبد العزيز محمود – قسم ثاني توريل 2",
+        "enAddress": "Abdel Aziz Mahmoud St. – Toril District 2",
+        "phone": "2316550 – 2338733",
+        "fax": "2338733"
+      },
+      {
+        "arTitle": "ميت غمر",
+        "enTitle": "Meet Ghamr",
+        "arAddress": "شارع بورسعيد",
+        "enAddress": "Port Said St.",
+        "phone": "6906184"
+      },
+      {
+        "arTitle": "الزقازيق",
+        "enTitle": "Zagazig",
+        "arAddress": "شارع الجلاء 45",
+        "enAddress": "45 El-Galaa St.",
+        "phone": "2327126"
+      },
+      {
+        "arTitle": "السويس",
+        "enTitle": "Suez",
+        "arAddress": "شارع سيناء شارع الجيش الأربعين 14",
+        "enAddress": "14 Sinai St., Al-Geish District",
+        "phone": "3340979"
+      },
+      {
+        "arTitle": "بورسعيد",
+        "enTitle": "Port Said",
+        "arAddress": "عمارة المساجيري- شارع النهضة - بورسعيد",
+        "enAddress": "El Masajery Building - El Nahda St., Port Said",
+        "phone": "3238619",
+        "fax": "3324370"
+      },
+      {
+        "arTitle": "الفيوم",
+        "enTitle": "Fayoum",
+        "arAddress": "شارع الشهيد عطا الله علي حسن – عمارة الصفا والمروة 22",
+        "enAddress": "Al-Shaheed Atta Allah Ali Hassan St., Safa & Marwa Building, 22",
+        "phone": "6351656",
+        "fax": "6345892"
+      },
+      {
+        "arTitle": "بني سويف",
+        "enTitle": "Beni Suef",
+        "arAddress": "شارع مجيب من شارع الرياضى 1",
+        "enAddress": "Mogib St., off Al Riyada St., 1",
+        "phone": "2324800",
+        "fax": "2356801"
+      },
+      {
+        "arTitle": "المنيا",
+        "enTitle": "Minya",
+        "arAddress": "ميدان عبد المنعم الغربي ( أمام مجمع المحاكم )",
+        "enAddress": "Abdel Moneim Al Gharbi Square (Opposite Courthouse Complex)",
+        "phone": "2366858",
+        "fax": "2354945"
+      },
+      {
+        "arTitle": "أسيوط",
+        "enTitle": "Assiut",
+        "arAddress": "شارع 23 يوليو 10",
+        "enAddress": "10, 23rd July St.",
+        "phone": "2340704",
+        "fax": "2330655",
+        "manager": "عمرو عبد الرحيم",
+        "email": "amr.abdelrhem@mohins.com"
+      }
+    ]
+  }
+}

@@ -5,7 +5,7 @@
       {
         "titleEN": "Who We Are",
         "titleAR": "من نحن",
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1757569176/company-building_f37pz7.svg",
+        "image": "/uploads/company-building.svg",
         "descriptionEN": [
           "Mohandes Insurance Company was established in 1980 under registration number (6) to provide all types of insurance services in the Egyptian insurance market.",
           "The authorized capital is 1 billion Egyptian pounds",
@@ -25,18 +25,21 @@
     "mission": {
       "titleEN": "Our Mission",
       "titleAR": "مهمتنا",
+      "image": "",
       "descriptionEN": "We are committed to adding value to all our customers and partners. We believe in long-term relationships and will strive to build strong partnerships with each of our customers based on uniqueness, mutual trust, transparency, and quality service. Our dedicated team firmly believes that satisfied customers are the key to long-term success, and thus, our goal is to exceed their expectations. Managing our portfolio to maintain sustainable capital returns.",
       "descriptionAR": "ملتزمون بإضافة قيمة إلى جميع عملائنا وشركائنا. نحن نؤمن بالعلاقات طويلة الأمد وسنسعى إلى إقامة شراكات قوية مع كل من عملائنا على أساس التفرد والثقة المتبادلة والشفافية وجودة الخدمة. يؤمن فريقنا المتفاني إيمانًا راسخًا بأن العملاء الراضين هم مفتاح النجاح على المدى الطويل ، وبالتالي فإن هدفنا هو تجاوز توقعاتهم. إدارة محفظتنا للحفاظ على عوائد رأس المال المستدامة."
     },
     "vision": {
       "titleEN": "Our Vision",
       "titleAR": "رؤيتنا",
+      "image": "",
       "descriptionEN": "To be among the top five companies in the Egyptian insurance market, recognized by our customers as first-class service providers, by our shareholders as high-value contributors, and by our employees as the best environment for success.",
       "descriptionAR": "أن نكون أحد أفضل خمسة شركات في السوق المصري للتأمين، بشهادة عملائنا كمقدمي خدمة من الدرجة الأولى، و بشهادة مساهمينا كمقدمين ذوي قيمة كبيرة ، ومتميزين من قبل موظفينا كأفضل بيئة للنجاح."
     },
     "values": {
       "titleEN": "Our Values",
       "titleAR": "قيمنا",
+      "image": "",
       "descriptionEN": [
         "Compliance with regulations, laws, and professional and ethical standards at work.",
         "Mutual trust between the company and its customers.",

@@ -6,7 +6,7 @@
       "enTitle": "Car Insurance",
       "arDescription": "قطع غيار العربيات ولعت نار وأسعار العربيات في الطالع، خلي فكرك في الطالع وأمّن مع المهندس للتأمين مع وثيقة السيارات التكميلي بدون تحمل وخليك باصص لقدام.",
       "enDescription": "Car parts prices are skyrocketing, and vehicle prices keep rising. Think ahead and insure your car with Al Mohandes Insurance through our comprehensive car insurance policy with no deductibles.",
-      "image": "/assets/images/insurance/car-insurance.svg"
+      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817673/Mic/assets/images/insurance/car-insurance_khcyxj.svg"
     },
     "policyTypes": [
       {
@@ -14,14 +14,14 @@
         "enTitle": "Private Car Insurance",
         "arDescription": "تأمين المركبات ضد الأضرار الناجمة عن الحوادث مع التغطية الشاملة، بالإضافة إلى التأمين ضد السرقة والحوادث الطارئة.",
         "enDescription": "Covers vehicles against accident-related damages with comprehensive coverage, including theft protection and emergency accidents.",
-        "image": "/assets/images/car.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817665/Mic/assets/images/car_juuymh.svg"
       },
       {
         "arTitle": "وثيقة تأمين سيارات (تجاري)",
         "enTitle": "Commercial Vehicle Insurance",
         "arDescription": "تغطية السيارات التجارية ضد جميع أنواع المخاطر المحتملة، وحماية السائقين والممتلكات أثناء عمليات النقل.",
         "enDescription": "Provides coverage for commercial vehicles against all potential risks, ensuring protection for drivers and assets during transportation operations.",
-        "image": "/assets/images/insurance/car-commercial.svg"
+        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817673/Mic/assets/images/insurance/car-commercial_dexlu5.svg"
       }
     ]
   }

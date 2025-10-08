@@ -6,7 +6,7 @@
       "enTitle": "Medical Insurance",
       "arDescription": "زملائك الموظفين هم عائلتك الثانية ، تقضي ثلث يومك معهم ، و تعرف عاداتهم و تقاليدهم كفرد من عائلتهم لذلك رعايتهم مهمه و مفيش اهم من الصحة علشان كدة وثيقة تأمين العلاج الطبي الجماعي بقت بشكل اوسع و شبكة طبيه اكبر.",
       "enDescription": "Your colleagues are your second family. You spend a third of your day with them and get to know their habits and traditions as if you were part of their family. Their well-being is important, and nothing is more crucial than health. That's why the group medical insurance policy has expanded with a larger medical network.",
-      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817679/Mic/assets/images/insurance/medicalImage_rreukb.svg"
+      "image": "uploads/medicalImage.svg"
     },
     "coverages": {
       "arTitle": "التغطيات الممنوحة لوثائق العلاج الطبي تشمل الآتي",
@@ -53,42 +53,42 @@
       "enTitle": "Contracted Medical Networks",
       "images": [
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817683/Mic/assets/images/insurance/TPAs-logos/image039_dfmcx5.jpg",
+          "src": "uploads/TPAs-logos/image039.jpg",
           "alt": "TPA Logo",
           "name": "TPA 1"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817683/Mic/assets/images/insurance/TPAs-logos/image038_bzw19f.jpg",
+          "src": "uploads/TPAs-logos/image038.jpg",
           "alt": "TPA Logo",
           "name": "TPA 2"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817683/Mic/assets/images/insurance/TPAs-logos/image037_qvuhtw.jpg",
+          "src": "uploads/TPAs-logos/image037.jpg",
           "alt": "TPA Logo",
           "name": "TPA 3"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817682/Mic/assets/images/insurance/TPAs-logos/image036_lci8rf.jpg",
+          "src": "uploads/TPAs-logos/image036.jpg",
           "alt": "TPA Logo",
           "name": "TPA 4"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817682/Mic/assets/images/insurance/TPAs-logos/image035_mvoizj.jpg",
+          "src": "uploads/TPAs-logos/image035.jpg",
           "alt": "TPA Logo",
           "name": "TPA 5"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817682/Mic/assets/images/insurance/TPAs-logos/image034_fazqtl.jpg",
+          "src": "uploads/TPAs-logos/image034.jpg",
           "alt": "TPA Logo",
           "name": "TPA 6"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817681/Mic/assets/images/insurance/TPAs-logos/image033_aakblm.jpg",
+          "src": "uploads/TPAs-logos/image033.jpg",
           "alt": "TPA Logo",
           "name": "TPA 7"
         },
         {
-          "src": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817681/Mic/assets/images/insurance/TPAs-logos/image032_tnezoe.jpg",
+          "src": "uploads/TPAs-logos/image032.jpg",
           "alt": "TPA Logo",
           "name": "TPA 8"
         }

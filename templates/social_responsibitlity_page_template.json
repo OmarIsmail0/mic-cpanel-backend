@@ -6,10 +6,10 @@
       "enTitle": "Our Social Responsibility",
       "arDescription": "المسئولية المجتمعية لشركة المهندس للتأمين هو السير علي اتجاه الدوله بوضع الإطار التنظيمي لمساهمات المسؤولية المجتمعية وآلية توثيقها وإدارتها، مع وضع الإطار العام للحوافز والامتيازات لممارسة المسؤولية المجتمعية، وتفعيل دورنا في توفير احتياجات الفئات المحتاجة الأكثر فقرا وفقا لتوجيهات الدولة المتمثلة في وزارة التضامن بقيادة معالي الدكتورة نيفين قباج.",
       "enDescription": "Al Mohandes Insurance's social responsibility follows the state's direction in setting the regulatory framework for corporate social responsibility contributions, documenting and managing them, along with establishing incentives and privileges for corporate social responsibility practices. We play an active role in providing for the most underprivileged groups, following state directives led by the Ministry of Social Solidarity, headed by Dr. Nevine Kabbaj.",
-      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817700/Mic/assets/images/social-responsibility_r2phx9.svg"
+      "image": "uploads/social-responsibility.svg"
     },
-    "goalImage": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817701/Mic/assets/images/social-section_pyxxee.svg",
-    "impactAreasImage": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817697/Mic/assets/images/social-area_gqhlno.svg",
+    "goalImage": "uploads/social-section.svg",
+    "impactAreasImage": "uploads/social-area.svg",
     "goals": [
       {
         "arTitle": "رؤيتنا في المسؤولية المجتمعية",

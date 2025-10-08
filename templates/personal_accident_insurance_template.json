@@ -6,7 +6,7 @@
       "enTitle": "Personal Accident Insurance",
       "arDescription": "أثناء محاولاتك وجهدك في بقائك في نفس طبقتك الاجتماعية وسط العواصف الاقتصادية وأمواج الغلاء، قد يحدث حادث بسيط يطيح بكل جهودك. لذلك، وثيقة الحوادث الشخصية هي مثل القفل الذي يحمي مدخراتك وتساعدك على سداد أي حادث شخصي لمنزلك أو عملك.",
       "enDescription": "As you strive to maintain your social status amidst economic turbulence and rising costs, a small accident could jeopardize everything you've worked for. That's why personal accident insurance acts as a safeguard for your savings, covering personal accidents at home or work.",
-      "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817673/Mic/assets/images/insurance/acc-personal_iyfhzz.svg"
+      "image": "uploads/acc-personal.svg"
     },
     "insurancePlans": [
       {
@@ -20,7 +20,7 @@
           "Under this policy, the company commits to paying the remaining loan installments of the borrower to the financing entity after deducting the agreed-upon deductible.",
           "The company's liability shall not exceed the insured amount stated in the policy."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817672/Mic/assets/images/insurance/acc-nonPaymentRisk_yrxylx.svg"
+        "image": "uploads/acc-nonPaymentRisk.svg"
       },
       {
         "arTitle": "وثيقة خيانة الأمانة",
@@ -35,7 +35,7 @@
           "Compensates the employer for financial losses due to covered fraudulent acts.",
           "The company is only liable for incidents occurring during the policy period and discovered within three years after expiration."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-fidelityGuarantee_m0xxdg.svg"
+        "image": "uploads/acc-fidelityGuarantee.svg"
       },
       {
         "arTitle": "وثيقة المسئولية المدنية العامة",
@@ -46,7 +46,7 @@
         "enDescription": [
           "The company undertakes to pay the amounts for which the insured becomes legally responsible towards third parties in the event of an accident resulting from unintentional error or negligence on the part of the insured or their dependents during the course of their activity at the location specified in the policy schedule, in accordance with the provisions of the Egyptian Civil Law (Articles 163 to 174 and Article 178). This accident may result in death or bodily injury to third parties, excluding any person working for the insured or a member of the insured's family or anyone residing with them in their home. It also covers loss of or material damage to the property of others, excluding property owned by, in the possession of, or under the control of the insured, their partners, family members, or employees while performing their duties."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-generalLiability_rcagic.svg"
+        "image": "uploads/acc-generalLiability.svg"
       },
       {
         "arTitle": "وثيقة كسر الزجاج",
@@ -63,7 +63,7 @@
           "Intentional act or negligence and bad faith of others",
           "Falling buildings, brawls, throwing objects"
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-glassBreakage_yyydvg.svg"
+        "image": "uploads/acc-glassBreakage.svg"
       },
       {
         "arTitle": "وثيقة حماية الاسرة",
@@ -86,7 +86,7 @@
           "Section Five: Civil Liability towards the owner of the residence if the residence is rented by the insured. The limits of civil liability are equal to the contents insurance amount or 50,000 EGP, whichever is less per single accident or several accidents during the insurance period.",
           "Section Six: Civil Liability towards third parties. The limits of civil liability are equal to the building or contents insurance amount or 50,000 EGP, whichever is less per single accident or several accidents during the insurance period."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-familyProtection_gddczs.svg"
+        "image": "uploads/acc-familyProtection.svg"
       },
       {
         "arTitle": "وثيقة المسئولية المهنية للاطباء",
@@ -97,7 +97,7 @@
         "enDescription": [
           "The company undertakes to compensate the insured for all amounts for which they are responsible towards third parties under the Egyptian Civil Law due to death or bodily injury arising from error, negligence, or omission committed while practicing their job or profession specified in the policy schedule, which occurs during the insurance period, provided that the insured submits a claim during the insurance period or within a maximum of sixty days after the expiry of the insurance period."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817669/Mic/assets/images/insurance/acc-doctorLiability_vookz8.svg"
+        "image": "uploads/acc-doctorLiability.svg"
       },
       {
         "arTitle": "وثيقة المسؤولية المدنية الناشئة عن حوادث المصاعد",
@@ -108,7 +108,7 @@
         "enDescription": [
           "The company undertakes to cover the insured's civil liability in the event of an accident during the policy period, if a ruling confirms bodily or material damage caused by the use of elevators/escalators listed in the policy schedule."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817669/Mic/assets/images/insurance/acc-elevatorLiability_aqmyo2.svg"
+        "image": "uploads/acc-elevatorLiability.svg"
       },
       {
         "arTitle": "وثيقة مسؤولية صاحب العمل",
@@ -121,7 +121,7 @@
           "The company compensates the insured or legal representative in case of employee death or injury during the policy period due to a work-related accident, whether on-site or during commute.",
           "Also covers liability due to occupational diseases, calculated based on actual wages as per applicable labor laws, with a deductible applied per policy terms."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-employerLiability_pfqj9u.svg"
+        "image": "uploads/acc-employerLiability.svg"
       },
       {
         "arTitle": "المسؤولية المهنية للمهندسين والمعماريين",
@@ -134,7 +134,7 @@
           "Covers all amounts the insured becomes legally liable for due to errors, negligence, or omissions while practicing their profession as an engineer or architect, whether freelance or employed.",
           "Requires a valid professional license, and covers incidents occurring and/or discovered within the defined policy period."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817671/Mic/assets/images/insurance/acc-employerLiability_pfqj9u.svg"
+        "image": "uploads/acc-employerLiability.svg"
       },
       {
         "arTitle": "وثيقة تأمين نفوق الحيوانات والطيور",
@@ -143,7 +143,7 @@
         "enDescription": [
           "Covers mortality of livestock and poultry prepared for fattening and production due to diseases and shelter-related accidents."
         ],
-        "image": "https://res.cloudinary.com/ditkrigcq/image/upload/v1759817669/Mic/assets/images/insurance/acc-animalInsurance_t1bzpn.svg"
+        "image": "uploads/acc-animalInsurance.svg"
       }
     ]
   }

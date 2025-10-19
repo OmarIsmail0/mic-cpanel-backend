@@ -1,0 +1,31 @@
+{
+  "page": "branchPage",
+  "sections": {
+    "mainBranch": {
+      "arTitle": "الفروع الرئيسية",
+      "enTitle": "Main Branches",
+      "arDescription": "الفروع الرئيسية لشركة المهندس للتأمين",
+      "enDescription": "Main branches of Al Mohandes Insurance",
+      "arAddress": "شارع البطل أحمد عبد العزيز 36",
+      "enAddress": "36 El Batal Ahmed Abdel Aziz St.",
+      "image": "uploads/branch/main-branch.jpg",
+      "fax": "37603371",
+      "phone": "33350853 – 33371074 – 33371774 – 33603371",
+      "email": "info@mohins.com",
+      "location": ""
+    },
+    "otherBranches": [
+      {
+        "arTitle": "المهندسين",
+        "enTitle": "Mohandessin",
+        "arAddress": "شارع البطل أحمد عبد العزيز 36",
+        "enAddress": "36 El Batal Ahmed Abdel Aziz St.",
+        "phone": "33350853 – 33371074 – 33371774 – 33603371",
+        "fax": "37603371",
+        "manager": "أحمد مصطفى",
+        "email": "ahmed.mostafa@mohins.com",
+        "location": ""
+      }
+    ]
+  }
+}

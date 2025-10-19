@@ -1,5 +1,5 @@
 {
-  "page": "contactUsPage",
+  "page": "contactUsMiclifePage",
   "sections": {
     "pageContent": {
       "image": "uploads/contactus-photo.png",
@@ -112,38 +112,41 @@
         ]
       }
     ],
-    "reviews": [
-      {
-        "arReview": "نحن سعداء للغاية للخدمة المقدمة من شركة المهندس للتأمين ومساعدتنا في الحصول على التعويض في وقت سريع",
-        "enReview": "We are very happy with the service provided by Mohandes Insurance and their assistance in obtaining compensation quickly.",
-        "rating": 5,
+    "reviews": {
+      "image": "uploads/reviewImage.svg",
+      "data": [
+        {
+          "arReview": "نحن سعداء للغاية للخدمة المقدمة من شركة المهندس للتأمين ومساعدتنا في الحصول على التعويض في وقت سريع",
+          "enReview": "We are very happy with the service provided by Mohandes Insurance and their assistance in obtaining compensation quickly.",
+          "rating": 5,
 
-        "arAuthor": "عميل ",
-        "enAuthor": " Customer",
-        "arLocation": "القاهرة - مصر",
-        "enLocation": "Cairo, Egypt"
-      },
-      {
-        "arReview": "خدمة ممتازة وسريعة جدًا، فريق العمل متعاون ويوفر الدعم الكامل",
-        "enReview": "Excellent and very fast service, the team is cooperative and provides full support.",
-        "rating": 5,
+          "arAuthor": "عميل ",
+          "enAuthor": " Customer",
+          "arLocation": "القاهرة - مصر",
+          "enLocation": "Cairo, Egypt"
+        },
+        {
+          "arReview": "خدمة ممتازة وسريعة جدًا، فريق العمل متعاون ويوفر الدعم الكامل",
+          "enReview": "Excellent and very fast service, the team is cooperative and provides full support.",
+          "rating": 5,
 
-        "arAuthor": "عميل ",
-        "enAuthor": " Customer",
-        "arLocation": "الإسكندرية - مصر",
-        "enLocation": "Alexandria, Egypt"
-      },
-      {
-        "arReview": "أفضل تجربة تأمين، إجراءات سهلة وسرعة في التعامل",
-        "enReview": "The best insurance experience, easy procedures, and quick processing.",
-        "rating": 5,
+          "arAuthor": "عميل ",
+          "enAuthor": " Customer",
+          "arLocation": "الإسكندرية - مصر",
+          "enLocation": "Alexandria, Egypt"
+        },
+        {
+          "arReview": "أفضل تجربة تأمين، إجراءات سهلة وسرعة في التعامل",
+          "enReview": "The best insurance experience, easy procedures, and quick processing.",
+          "rating": 5,
 
-        "arAuthor": "عميل ",
-        "enAuthor": " Customer",
-        "arLocation": "الجيزة - مصر",
-        "enLocation": "Giza, Egypt"
-      }
-    ],
+          "arAuthor": "عميل ",
+          "enAuthor": " Customer",
+          "arLocation": "الجيزة - مصر",
+          "enLocation": "Giza, Egypt"
+        }
+      ]
+    },
     "contactForm": {
       "arDescription": "خدمة تقدمها الشركة للتواصل مع الإدارة العليا مباشرة من خلال ملئ النموذج المرفق لإرسال الشكاوى والمقترحات، على ان يتم مرجعاتها والتواصل الفوري مع مقدم الشكوى أو الإقتراح",
       "enDescription": "A service provided by the company to communicate directly with senior management by filling out the attached form to send complaints and suggestions, which will be reviewed and immediate contact will be made with the complainant or suggester."

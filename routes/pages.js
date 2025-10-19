@@ -57,7 +57,7 @@ router.post("/", upload.array("images", 10), handleUploadError, async (req, res)
     // Process uploaded images
     let imageUrls = [];
     if (req.files && req.files.length > 0) {
-      imageUrls = req.files.map((file) => `/api/uploads/${file.filename}`);
+      imageUrls = req.files.map((file) => `uploads/${file.filename}`);
     }
 
     // Parse sections data if it's a string
@@ -156,29 +156,10 @@ router.put("/:id", upload.array("images", 10), handleUploadError, async (req, re
       });
     }
 
-    // Process uploaded images
-    let imageUrls = [];
-    if (req.files && req.files.length > 0) {
-      imageUrls = req.files.map((file) => `/api/uploads/${file.filename}`);
-    }
-
-    // Parse sections data if it's a string
-    let sections = req.body.sections;
-    if (typeof sections === "string") {
-      try {
-        sections = JSON.parse(sections);
-      } catch (e) {
-        return res.status(400).json({
-          success: false,
-          message: "Invalid sections JSON format",
-          error: e.message,
-        });
-      }
-    }
-
     // Process images with sections data
-    if (sections && imageUrls.length > 0) {
-      sections = processImagesWithSections(sections, imageUrls);
+    let sections = null;
+    if (req.body.sections) {
+      sections = processImagesWithSections(JSON.parse(req.body.sections), req.files || []);
     }
 
     // Prepare update data

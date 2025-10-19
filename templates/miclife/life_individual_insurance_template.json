@@ -1,0 +1,172 @@
+{
+  "page": "lifeIndividualInsurancePage",
+  "sections": {
+    "services": [
+      {
+        "key": "cooperativePolicy",
+        "arTitle": "برنامج الوثيقة التعاونية تكافل ادخار استثمار",
+        "enTitle": "Cooperative Policy Program with Investment Savings",
+        "arDescription": "ملخص المزايا",
+        "enDescription": "Benefits Summary",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/cooperative-policy.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "increasingEngineer",
+        "arTitle": "برنامج المهندس المتزايدة مع الاشتراك في الأرباح",
+        "enTitle": "Increasing Engineer Program with Profit Sharing",
+        "arDescription": "ملخص المزايا",
+        "enDescription": "Benefits Summary",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/increasing-engineer.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "engineerWithProfit",
+        "arTitle": "برنامج المهندس مع الاشتراك في الأرباح",
+        "enTitle": "Engineer Program with Profit Sharing",
+        "arDescription": "ملخص المزايا",
+        "enDescription": "Benefits Summary",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/engineer-profit.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "secondPolicyWithProfit",
+        "arTitle": "الوثيقة الثانية مع الاشتراك في الأرباح",
+        "enTitle": "Second Policy with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/second-policy.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "thirdPolicyWithProfit",
+        "arTitle": "الوثيقة الثلاثية مع الاشتراك في الأرباح",
+        "enTitle": "Third Policy with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/third-policy.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "fourthPolicyWithProfit",
+        "arTitle": "الوثيقة الرابعة مع الاشتراك في الأرباح",
+        "enTitle": "Fourth Policy with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/fourth-policy.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "mixedWithProfit",
+        "arTitle": "برنامج المختلط مع الاشتراك في الأرباح",
+        "enTitle": "Mixed Program with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/mixed-profit.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "mixedTwoPersons",
+        "arTitle": "برنامج المختلط على حياة شخصين مع الاشتراك في الأرباح",
+        "enTitle": "Mixed Program for Two Persons with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/mixed-two-persons.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "lifetimeWithProfit",
+        "arTitle": "برنامج مدى الحياة مع الاشتراك في الأرباح",
+        "enTitle": "Lifetime Program with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/lifetime-profit.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "childrenProtection",
+        "arTitle": "برنامج حماية الأبناء",
+        "enTitle": "Children Protection Program",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/children-protection.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "deferredPaymentWithProfit",
+        "arTitle": "برنامج مؤجل الدفع مع الاشتراك في الأرباح",
+        "enTitle": "Deferred Payment Program with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/deferred-payment.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "caseWithProfit",
+        "arTitle": "برنامج القضية مع الاشتراك في الأرباح",
+        "enTitle": "Case Program with Profit Sharing",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/case-profit.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "decliningProgram",
+        "arTitle": "البرنامج المؤقت المتناقص",
+        "enTitle": "Temporary Declining Program",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/declining_program.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "temporaryProgram",
+        "arTitle": "البرنامج المؤقت",
+        "enTitle": "Temporary Program",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/temporary_program.png",
+        "link": "/life-insurance-detail"
+      },
+      {
+        "key": "temporaryProgramWithRefund",
+        "arTitle": "البرنامج المؤقت مع رد الأقساط",
+        "enTitle": "Temporary program with refund of installments",
+        "arDescription": "",
+        "enDescription": "",
+        "arDetails": "",
+        "enDetails": "",
+        "image": "uploads/miclife/illustrations/temporary_refund_of_installments.png",
+        "link": "/life-insurance-detail"
+      }
+    ]
+  }
+}

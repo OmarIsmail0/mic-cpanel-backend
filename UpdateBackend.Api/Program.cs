@@ -96,13 +96,30 @@ app.UseIpRateLimiting();
 app.UseCors("AllowAll");
 
 // Configure static files
+// Set web root path if not already set
+if (string.IsNullOrEmpty(app.Environment.WebRootPath))
+{
+    app.Environment.WebRootPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot");
+}
+
+// Ensure wwwroot and uploads directories exist
+var wwwrootPath = app.Environment.WebRootPath;
+var uploadsPath = Path.Combine(wwwrootPath, "uploads");
+if (!Directory.Exists(wwwrootPath))
+{
+    Directory.CreateDirectory(wwwrootPath);
+}
+if (!Directory.Exists(uploadsPath))
+{
+    Directory.CreateDirectory(uploadsPath);
+}
+
 app.UseStaticFiles();
 
 // Serve uploaded files
 app.UseStaticFiles(new StaticFileOptions
 {
-    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(
-        Path.Combine(app.Environment.WebRootPath, "uploads")),
+    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(uploadsPath),
     RequestPath = "/api/uploads"
 });
 

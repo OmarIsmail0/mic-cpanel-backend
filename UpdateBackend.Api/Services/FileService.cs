@@ -105,7 +105,7 @@ namespace UpdateBackend.Api.Services
 
         public string GetFileUrl(string fileName, string subfolder = "")
         {
-            var url = $"/api/uploads/{subfolder}/{fileName}".Replace("//", "/");
+            var url = $"uploads/{subfolder}/{fileName}".Replace("//", "/");
             return url;
         }
 

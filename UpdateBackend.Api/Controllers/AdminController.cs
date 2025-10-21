@@ -52,7 +52,7 @@ namespace UpdateBackend.Api.Controllers
                             var files = Directory.GetFileSystemEntries(micWebsitePath).Take(10).Select(Path.GetFileName).Where(f => f != null).Cast<string>().ToList();
                             micWebsiteStatus = "accessible";
                             micWebsiteFiles = files;
-                        }   
+                        }
                         else
                         {
                             micWebsiteStatus = "inaccessible";
